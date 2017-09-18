@@ -8,7 +8,7 @@
 %b: abbreviated month (Jan)
 
 # Definition of character strings representing dates
-str1 <- "May 23, '96"
+str1 <- "May 23, ''''''96"
 str2 <- "2012-03-15"
 str3 <- "30/January/2006"
 
